@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+}
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin: 2.5rem;
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+
+}
+
+.purple{
+    background-color: palevioletred;
+
+}
+.red{
+    background-color: rgb(206, 22, 22);
+
+}
+.yellow{
+    background-color: rgb(238, 175, 15);
+}
+.blue{
+    background-color: aqua;
+}
+.flash{
+     background-color: white; /*// to flash a butto n */
+}
+.userFlash{
+    background-color: green;
+}
